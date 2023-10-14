@@ -1,0 +1,4 @@
+*.out
+*.xml
+*/.idea/
+*/cmake-build-debug/
